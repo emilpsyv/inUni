@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\viewmodels\\cards\\updatecardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\viewmodels\\cards\\updatecardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\viewmodels\\cards\\getcardmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\viewmodels\\cards\\getcardmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.10\\desktop\\back to front ab106\\spacdyna\\spacdyna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90627883-BACA-4F9D-8F11-D70C1631A548}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SpacDyna\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:46:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SpacDyna\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:45:25.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Models\\AppUser.cs",
+              "RelativeToolTip": "SpacDyna\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:40:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SpacDyna\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:39:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SpacDyna\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:11:54.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpacDyna\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALkAAAAAAAAAAAAuwKAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:09:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCardMemberVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\ViewModels\\Cards\\GetCardMemberVM.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\ViewModels\\Cards\\GetCardMemberVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\ViewModels\\Cards\\GetCardMemberVM.cs",
+              "RelativeToolTip": "SpacDyna\\ViewModels\\Cards\\GetCardMemberVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:09:19.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpacDyna\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:07:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:46:52.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCardVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\ViewModels\\Cards\\UpdateCardVM.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\ViewModels\\Cards\\UpdateCardVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\ViewModels\\Cards\\UpdateCardVM.cs",
+              "RelativeToolTip": "SpacDyna\\ViewModels\\Cards\\UpdateCardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:37:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:14:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\back to front ab106\\SpacDyna\\SpacDyna\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:39:13.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

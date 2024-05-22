@@ -1,0 +1,35 @@
+﻿@model UpdateCardVM
+
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title fw-semibold mb-4">Forms</h5>
+            <div class="card">
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Name</label>
+                            <input asp-for="Name" class="form-control">
+                            <span asp-validation-for="Name"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Description</label>
+                            <input asp-for="Description" class="form-control">
+                            <span asp-validation-for="Description"></span>
+                        </div>
+                        <div class="mb-3">
+                            <img src="../imgUrl" alt="Alternate Text" />
+                            <label asp-for="Image" class="form-label">Name</label>
+                            <input asp-for="Image" accept="*/image" class="form-control">
+                            <span asp-validation-for="Image"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
